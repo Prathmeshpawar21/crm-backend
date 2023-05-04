@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "name": "crm-app",
+  "builds": [
+    { "src": "script.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/app.js" }
+  ]
+}
+
