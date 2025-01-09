@@ -1,7 +1,4 @@
-Deployed URL: https://protected-river-14538.herokuapp.com/
 
-![Deployment Status](https://badgen.net/badge/Build/Live/green?icon=github)    ![Built Using: Node.js](https://badgen.net/badge/Built%20Using/Node.js/green?icon=github)    ![Deployed on Heroku](https://badgen.net/badge/Deployed%20On/Heroku/purple?icon=github)
-	
 	
 	Backend Requirement ->
 	User object ->
